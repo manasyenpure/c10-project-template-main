@@ -1,1 +1,1 @@
-# c10-project-template-main
+# C10-project-template
